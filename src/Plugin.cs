@@ -5,7 +5,7 @@ using BDLogs;
 
 namespace BetterDecals2 {
 
-    [BepInPlugin(MOD_ID, "betterdecals", "1.0.0")]
+    [BepInPlugin(MOD_ID, "betterdecals", "1.1.0")]
     class Plugin : BaseUnityPlugin {
         private const string MOD_ID = "ludocrypt.betterdecals";
 
